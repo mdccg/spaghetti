@@ -1,9 +1,8 @@
 # spaghetti
 
-- [spaghetti](#spaghetti)
-  - [Motivação](#motivação)
-  - [Pilha de tecnologia](#pilha-de-tecnologia)
-  - [Lista de afazeres](#lista-de-afazeres)
+- [Motivação](#motivação)
+- [Pilha de tecnologia](#pilha-de-tecnologia)
+- [Lista de afazeres](#lista-de-afazeres)
 
 ## Motivação
 
