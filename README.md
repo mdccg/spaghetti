@@ -16,8 +16,6 @@ Este repositório foi criado para disponibilizar retalhos de código simples em 
 | Ambiente de execução | [Node](https://nodejs.org/en/) |
 | Linguagem de programação | [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
 
-Os créditos pelas mídias utilizadas estão disponíveis [aqui](./frontend/src/assets/README.md).
-
 ## Lista de afazeres
 
 - [ ] Impedir que o usuário escreva groselha nos campos de texto rígidos;
